@@ -1,0 +1,11 @@
+name: QbTeleporte
+author: leod1
+version: 1.0.0
+main: fr.leod1.QbTeleporte.QbTeleporte
+commands:
+  qbl:
+    permission: qbl.softPerm
+    permission-message: "&cDésolé, Tu n'as pas la permission necésaire"
+  qbc:
+    permission: qbl.hardPerm
+    permission-message: "&cDésolé, Tu n'as pas la permission necésaire"

@@ -1,0 +1,21 @@
+name: Mailleur
+author: leod1
+version: 1.0.0
+main: fr.leod1.Mailleur.main
+commands:
+  spawnbot:
+    description: Spawn a fake player at a random location
+    usage: /<command> [count] [radius]
+    permission: playersim.spawn
+  killbots:
+    description: Disconnect all fake players
+    permission: playersim.killbots
+  killbot:
+    description: Disconnect a specific fake player
+    permission: playersim.killbot
+  simdebug:
+    description: Read server debug information
+    permission: playersim.debug
+  editbot:
+    description: Edit a bot's properties
+    permission: playersim.editbot

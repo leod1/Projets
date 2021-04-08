@@ -1,0 +1,11 @@
+name: ArkaPvp
+main: fr.leod1.arkapvp.ArkaPvp
+version: 0.0.1
+depend: [TTA]
+description: Ce plugin sert a jouer
+author: leod1
+commands:
+  Arkagames:
+    permission: Arkagames.use
+    permission-message: "Pas les perms"
+    description: Description de la commande.

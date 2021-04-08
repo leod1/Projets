@@ -1,0 +1,10 @@
+name: ReunionQB
+main: fr.leod1.ReuQB.ReuQB
+version: 0.0.1
+description: Ce plugin sert à faire des reunions
+author: leod1
+commands:
+  Reunion:
+    permission: Reunion.use
+    permission-message: "Pas les perms"
+    description: Description de la commande.

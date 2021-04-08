@@ -1,0 +1,13 @@
+name: Gambling
+main: Main
+version: 0.0.1
+depend: [Vault]
+description: Ce plugin sert a jouer
+author: leod1
+commands:
+  Coinflip:
+    permission: Coinflip
+    permission-message: "Nique toi"
+    description: Description de la commande.
+    aliases:
+    - Coinflips

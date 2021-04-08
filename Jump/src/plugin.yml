@@ -1,0 +1,8 @@
+name: jump
+author: leod1
+version: 1.0.0
+main: Jump
+commands:
+  jump:
+    permission: jump.use
+    permission-message: "&4Tu n'as pas la permission nscésaire"

@@ -1,0 +1,9 @@
+GenerateNewDataBase: true
+messages:
+  Jump-end: '&a[&bJump&a] &5Vous venez de finir la course &r%Jump-Name%&5 en &a&l%Time%'
+  Jump-start: '&a[&bJump&a] &5Vous venez de commencer la course &r%Jump-Name%&5.'
+  Not-All-Cp: 'eZ'
+  Jump-On-Cp: '&a[&bJump&a] &5Checkpoint &r%NumberCP%'
+Objects:
+  Slime-ball: '&aTéléportation au dernier checkpoint'
+  Barrier: '&cQuitter le jump'

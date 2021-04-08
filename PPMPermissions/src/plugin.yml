@@ -1,0 +1,7 @@
+name: PPMPermissions
+author: leod1
+version: 1.0.0
+main: fr.leod1.ppmPermissions.PPMPermissions
+commands:
+  perm:
+  permission: Perm

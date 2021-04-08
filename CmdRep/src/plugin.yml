@@ -1,0 +1,13 @@
+name: CmdRep
+main: cmdrep
+version: 0.0.1
+depend: [Vault]
+description: Ce plugin sert à trouber les commandes
+author: leod1
+commands:
+  cmdrep:
+    permission: Coinflip
+    permission-message: "Nique toi"
+    description: Description de la commande.
+    aliases:
+    - Coinflips

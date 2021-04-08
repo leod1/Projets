@@ -1,0 +1,8 @@
+name: UnderCover
+author: leod1
+version: 1.0.0
+main: fr.leod1.undercover.UnderCover
+commands:
+  UnderCover:
+    permission: UnderCover.use
+    permission-message: "&4Tu n'as pas la permission nscésaire"

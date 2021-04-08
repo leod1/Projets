@@ -1,0 +1,7 @@
+name: PPMproject
+author: leod1
+version: 1.0.0
+main: fr.leod1.ppmproject.PPMproject
+commands:
+  project:
+    aliases: [pc]
